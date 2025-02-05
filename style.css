@@ -161,7 +161,7 @@ body {
     display: flex;
     width: 1248px;
     height: 230px;
-    background-color: #ddd;
+    
     border: none;
     position: relative;
     bottom: -124px;
@@ -175,7 +175,7 @@ body {
     align-items: center;
     border-right: 1px solid #fbb991;
     background-color: #eed6be;
-    
+    border-radius: 18px;
 }
 
 .box:last-child {
@@ -370,9 +370,9 @@ body {
 
 .image-container img {
     width: 926px;
-    height: 418px;
-    border: none;
+    height: 410px;
     border-radius: 40px;
+    border: 5px solid #bedceebf;
 }
 .flightimg{
     height: 40px;
